@@ -101,6 +101,12 @@ footer a {
     bottom: 10px; /* Positionner l'image en bas de la page */
 }
 
+.qrcode-container p {
+    color: #fff;
+    text-shadow: 4px 5px 6px rgb(104, 177, 9);
+
+}
+
 .qrcode-container img {
     width: 150px; /* Taille de l'image */
     height: auto;
